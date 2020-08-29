@@ -1,0 +1,28 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "nombre": "Pizza napolitana", 
+      "unidadDeMedida": "UN", 
+      "cantidad": 10,
+      "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2019/07/neapolitan-pizza-margherita-413x275.jpg",
+      "descripcion": "Es una típica pizza napolitana condimentada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite."
+    },
+    {
+      "id": 2,
+      "nombre": "Filete de ternera con hierbas",
+      "unidadDeMedida": "UN",
+      "cantidad": 5,
+      "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2020/08/grilled-beef-steak-with-herbs-413x274.jpg",
+      "descripcion": "Filete a la plancha acompañado de una salsa de matenquilla con hierbas."
+    },
+    {
+      "id": 3,
+      "nombre": "Wrap vegetariano de espinaca",
+      "unidadDeMedida": "UN",
+      "cantidad": 3,
+      "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2017/05/healthy-vegetarian-wrap-with-spinach-3-413x275.jpg",
+      "descripcion": "Wrap libre de carne y saludable para una cena ligera o un tentempié saludable."
+    }
+  ]
+}
