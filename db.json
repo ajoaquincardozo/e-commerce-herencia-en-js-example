@@ -2,11 +2,11 @@
   "products": [
     { 
       "id": 1, 
-      "nombre": "Pizza napolitana", 
+      "nombre": "Pizza margarito estilo napolitano", 
       "unidadDeMedida": "UN", 
       "cantidad": 10,
       "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2019/07/neapolitan-pizza-margherita-413x275.jpg",
-      "descripcion": "Es una típica pizza napolitana condimentada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite."
+      "descripcion": "Pizza napolitana condimentada con tomate, mozzarella, albahaca fresca, sal y aceite."
     },
     {
       "id": 2,
