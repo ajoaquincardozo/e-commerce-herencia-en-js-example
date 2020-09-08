@@ -1,9 +1,9 @@
 {
   "products": [
-    { 
-      "id": 1, 
-      "nombre": "Pizza margarito estilo napolitano", 
-      "unidadDeMedida": "UN", 
+    {
+      "id": 1,
+      "nombre": "Pizza margarita estilo napolitano",
+      "unidadDeMedida": "UN",
       "cantidad": 10,
       "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2019/07/neapolitan-pizza-margherita-413x275.jpg",
       "descripcion": "Pizza napolitana condimentada con tomate, mozzarella, albahaca fresca, sal y aceite."
@@ -22,7 +22,7 @@
       "unidadDeMedida": "UN",
       "cantidad": 3,
       "imagenUrl": "https://www.foodiesfeed.com/wp-content/uploads/2017/05/healthy-vegetarian-wrap-with-spinach-3-413x275.jpg",
-      "descripcion": "Wrap libre de carne y saludable para una cena ligera o un tentempié saludable."
+      "descripcion": "Wrap como opcion saludable. Rico para una cena ligera o un tentempié."
     }
   ]
 }
